@@ -1,3 +1,3 @@
 <p align='center'>
-	<img src="markdown-resource/wallpaper_icons.png">
+	<img src="markdown-resource/brand_icon.jpg">
 </p>
