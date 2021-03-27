@@ -27,7 +27,7 @@ All this with agile team environment over **JIRA** and daily scrum meet. In coll
   </p>
 </a>
 
-#### Programming Lanuguages
+<!-- #### Programming Lanuguages
 
 - Python (Proficient)
 - JS (Begineer)
@@ -51,7 +51,7 @@ All this with agile team environment over **JIRA** and daily scrum meet. In coll
 
   - Git and Github
   - JIRA
-  - Slack
+  - Slack -->
 
 #### Github Repositories and Work
 
