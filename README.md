@@ -21,11 +21,12 @@ All this with agile team environment over **JIRA** and daily scrum meet. In coll
     </table>
 </a>
 
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/CydNMWhc54Ya4vxkBZeec@2Ux7TurymNNKQwroNmHv"></iframe>
+
 #### Programming Lanuguages
 
 - Python (Proficient)
-- Java
-- JS
+- JS (Begineer)
 
 #### Framework and Technologies Skill Set
 
