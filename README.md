@@ -1,14 +1,10 @@
 <p align='center'>
-    <img src="markdown-resource/brand3.jpg">
+    <img src="markdown-resource/banner.jpg">
 </p>
 
 #### About Me
 
-I am a passionate web developer specialized in backend mainly. During my internship I have designed backed for several production ready REST APIs from scratch till production using all industry defined standards and testing them throughly. Using **django** as framwork and **python** as language.
-
-I also like to design fully responsive web websites from scratch till production. I have used **HTML**, **CSS** and **JS** but I consider myself still a beginner in frontend technologies.
-
-All this with agile team environment over **JIRA** and daily scrum meet. In collobration with team over **Github** and **Slack**.
+I am a passionate **FullStack Web Developer** specialized in backend mainly. I design API's (fast, secure and scalable). Using **Django** as framwork and **Python 3** as language. I also design fully responsive web websites using **React**.
 
 <a style="vertical-align: middle" target='_blank' href="resume/Himanshu_Patel_Resume.pdf">
     <table>
@@ -27,38 +23,13 @@ All this with agile team environment over **JIRA** and daily scrum meet. In coll
   </p>
 </a>
 
-<!-- #### Programming Lanuguages
-
-- Python (Proficient)
-- JS (Begineer)
-
-#### Framework and Technologies Skill Set
-
-- ##### Web Backend and API
-
-  - Django Web Framewotk
-  - Django REST Framework
-  - Postman
-
-- ##### Deployment
-
-  - Python anywhere
-  - Heroku
-  - AWS S3
-  - Docker
-
-- ##### Version control and team Collobration
-
-  - Git and Github
-  - JIRA
-  - Slack -->
-
 #### Github Repositories and Work
 
-- **Truck Sampark** (Private): Contributing in API development of new product.
+- **Truck Sampark** (Private): Contributing in API development of a logistic product. Online bidding and load posting.
 
-- **Track On** (Private): Designing API from scratch and designing database to user authentication and testing.
+- **Track On** (Private): Designing database, API workflow, development and testing of API with documentation.
 
+- [Learn Linux](https://github.com/Py-Himanshu-Patel/Learn-Linux): All details and must have knowledge for a linux user.
 
 - [Competetive Coding](https://github.com/Py-Himanshu-Patel/Competetive_Programming): All major data structures constructed using python. Also include some leetcode and popular interview questions.
 
