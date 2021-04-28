@@ -1,10 +1,10 @@
 <p align='center'>
-    <img src="markdown-resource/banner.jpg">
+    <img src="markdown-resource/banner_new.jpg">
 </p>
 
 #### About Me
 
-I am a passionate **FullStack Web Developer** specialized in backend mainly. I design API's (fast, secure and scalable). Using **Django** as framwork and **Python 3** as language. I also design fully responsive web websites using **React**.
+I am a passionate **FullStack Web Developer**. I design API's (fast, secure and scalable). Using **Django** as framwork, **Python 3** language and fully responsive frontend using **React**.
 
 <a style="vertical-align: middle" target='_blank' href="resume/Himanshu_Patel_Resume.pdf">
     <table>
